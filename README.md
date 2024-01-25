@@ -1,1 +1,1 @@
-## Sorting Algorithms from the DSA class.
+## Sorting Algorithms from the DSA class, written in GO.
