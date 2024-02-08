@@ -4,3 +4,4 @@ This repo includes sorting and searching algorithms from my DSA class and others
 ## MOC
 - [Master](https://github.com/ArshhGill/algorithms/tree/master) (Empty for now)
 - [GoLang](https://github.com/ArshhGill/algorithms/tree/golang)
+- [C++](https://github.com/ArshhGill/algorithms/tree/cpp)
