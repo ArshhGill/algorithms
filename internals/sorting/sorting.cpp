@@ -22,6 +22,10 @@ vector<int> bubbleSort(vector<int> l){
     return l;
 }
 
+vector<int> insertionSort(vector<int> l){
+    return l;
+}
+
 void bubbleSortRunner(vector<int> l){
 
     vector<int> bubbleSortReturn = bubbleSort(l);
@@ -29,6 +33,8 @@ void bubbleSortRunner(vector<int> l){
         cout << bubbleSortReturn[i] << " ";
     }
 }
+
+
 
 int main(){
     vector<int> l = {1,5,3,7,3,6,8,43,0};
